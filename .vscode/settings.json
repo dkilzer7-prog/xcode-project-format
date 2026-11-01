@@ -1,0 +1,5 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.defaultBinaryEditor": "vscode.markdown.editor"
+}
